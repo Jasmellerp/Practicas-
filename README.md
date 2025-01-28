@@ -1,2 +1,2 @@
 # Practicas-
-Este repositorio es para mis practicas con Python.
+Este repositorio es para mis practicas.
